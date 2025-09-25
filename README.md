@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jullystian  
 
-🎯 **Junior Software Engineer** passionate about building interactive web apps and fun projects.  
-💡 Always learning, always experimenting.  
+**Junior Software Engineer** passionate about building interactive web apps and fun projects.  
+Always learning, always experimenting.  
 
 
 
