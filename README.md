@@ -56,13 +56,4 @@ Always learning, always experimenting.
 
 
 
-## 🏆 Highlight Projects  
-- **Flappy Bird Custom Game** – leaderboard, skins, achievements, hard mode  
-- **Sushi Landing Page** – modern landing page design with clean UI/UX  
-- **School Event Organizer Web** – simple event ticketing platform  
-
-
-
-
-
 ✨ *Thanks for visiting my profile!*
