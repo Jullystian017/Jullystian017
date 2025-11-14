@@ -49,6 +49,7 @@ Always learning, always experimenting.
   />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jullystian017&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
