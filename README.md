@@ -40,10 +40,6 @@ Always learning, always experimenting.
 ## 📊 GitHub Stats  
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Jullystian017&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="150"
-  />
-  <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jullystian017&layout=compact&theme=tokyonight" 
     height="150"
   />
