@@ -38,9 +38,9 @@ Always learning, always experimenting.
 
 ## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=Jullystian017&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jullystian017&layout=compact&theme=radical)
 
 
 
