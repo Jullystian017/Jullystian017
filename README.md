@@ -37,12 +37,10 @@ Always learning, always experimenting.
 
 
 ## 📊 GitHub Stats  
-<p align="center">
-  <img 
-    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jullystian017&show_icons=true&theme=tokyonight) 
-    height="150"
-  />
-</p>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical)
 
 
 
